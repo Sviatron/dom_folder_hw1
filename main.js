@@ -12,5 +12,5 @@ link.href = "https://www.instagram.com/";
 const img2 = document.querySelector(".img2");
 img2.alt = "DAWG";
 
-const div = document.querySelector(".div");
-div.firstChild.textContent = "not sup guys";
+const ul = document.querySelector(".ul li");
+ul.textContent = "not sup guys";
